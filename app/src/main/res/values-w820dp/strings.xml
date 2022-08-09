@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="consulter_historique">Cette application vous permet de gérer, consulter l\'historique de vos achats ainsi que l\'ensemble de nos boutiques disponibles.</string>
+    <string name="a_propos_de">A propos de</string>
+    <string name="boutiques">Nos boutiques</string>
+    <string name="voir_l_apos_historique">Voir l\'historique</string>
+    <string name="gerer_Achat">Gérer vos achats</string>
+    <string name="magasin1">le magasin 1</string>
+    <string name="adresse_Boutique">5 rue de la chouette 4000 Liege +32 2 333 11 22</string>
+    <string name="le_magasin_2">le magasin 2</string>
+    <string name="adresse_Boutique_2">53 rue des songes 4000 Liege +32 2 481 51 62</string>
+    <string name="mes_achats">Mes achats</string>
+    <string name="valider_shopping_cart">Valider</string>
+    <string name="mes_historiques_d_achat">Mes historiques d\'achat</string>
+</resources>
